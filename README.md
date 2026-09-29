@@ -1,8 +1,8 @@
 ## NASA Space Apps Challenge 2024
 
-**Team:** Space Mavericks
-**Project:** Cosmic Chronicles
-**Challenge:** NASA Space Apps Challenge 2024
+**Team:** Space Mavericks  
+**Project:** Cosmic Chronicles  
+**Challenge:** NASA Space Apps Challenge 2024  
 # Cosmic Chronicles
 
 **Cosmic Chronicles** is an interactive web-based 3D orrery developed by **Team Space Mavericks** for the **NASA Space Apps Challenge 2024**. The project reimagines the traditional orrery as an interactive digital experience, allowing users to explore the solar system, planetary motion, the Moon's orbit, asteroids, and comets.
