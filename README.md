@@ -1,4 +1,4 @@
-## NASA Space Apps Challenge 2024
+# NASA Space Apps Challenge 2024
 
 **Team:** Space Mavericks  
 **Project:** Cosmic Chronicles  
