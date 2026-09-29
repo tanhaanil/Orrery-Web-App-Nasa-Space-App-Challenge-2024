@@ -1,3 +1,6 @@
+## Project Preview
+
+![Cosmic Chronicles Orrery](landing page.png)
 # NASA Space Apps Challenge 2024
 
 **Team:** Space Mavericks  
