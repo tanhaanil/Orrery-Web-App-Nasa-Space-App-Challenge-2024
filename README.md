@@ -9,18 +9,16 @@
 
 The application combines **interactive 3D visualization, NASA data, educational content, and gameplay** to make astronomical concepts easier and more engaging to explore.
 
-## Project
-
 The project focuses on creating an accessible and interactive way to understand the solar system and **Near-Earth Objects (NEOs)**. Users can explore celestial bodies, observe their orbital movements, learn about potentially hazardous asteroids, and interact with an educational planetary-defense game inspired by NASA's DART mission.
 
 ### Key Features
 
-* **Dynamic 3D Orrery** — Interactive visualization of the solar system and celestial orbits.
-* **Planetary Exploration** — Explore planets and access information about different celestial bodies.
-* **Asteroid & Comet Tracking** — Visualize Near-Earth Objects using NASA data.
-* **Educational Content** — Learn about the solar system and NEOs through interactive resources.
-* **Planetary Defense Game** — An educational game inspired by NASA's DART mission.
-* **Interactive Learning** — Educational content is integrated into the experience before users access the game features.
+* **Dynamic 3D Orrery** - Interactive visualization of the solar system and celestial orbits.
+* **Planetary Exploration** - Explore planets and access information about different celestial bodies.
+* **Asteroid & Comet Tracking** - Visualize Near-Earth Objects using NASA data.
+* **Educational Content** - Learn about the solar system and NEOs through interactive resources.
+* **Planetary Defense Game** - An educational game inspired by NASA's DART mission.
+* **Interactive Learning** - Educational content is integrated into the experience before users access the game features.
 
 ## UI/UX Design
 
@@ -48,7 +46,6 @@ NASA APIs and other NASA resources were used to provide astronomical information
 
 | Resource                   | Link                                                                                                                                                                                                                                                     |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🎨 Figma Prototype         | [View Design](https://www.figma.com/proto/Z1YOGZ0lBSL59DNWdLVGuV/Project-NASA-SPACE-APP?node-id=220-22&node-type=frame&t=UqY1BmqdVuKBgmCE-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=220%3A22&show-proto-sidebar=1) |
 | 💻 GitHub Repository       | [View Source Code](https://github.com/TasniaRafiqueSimran/OrrerryWebApp)                                                                                                                                                                                 |
 | 🚀 NASA Space Apps Project | [View Project on NASA Space Apps](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/team-space-mavericks/?tab=project)                                                                                                                 |
 | 🎥 Project Demonstration   | [Watch Demonstration](https://drive.google.com/file/d/1KCDXxXZ8tBmvHIylslEGq2XWITIhIcpV/view?usp=sharing)                                                                                                                                                |
